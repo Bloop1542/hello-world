@@ -1,2 +1,2 @@
 # hello-world
-his repository is for practising the GitHub Flow.
+I am a CS student at Boise State University working towards my bachelors degree. 
